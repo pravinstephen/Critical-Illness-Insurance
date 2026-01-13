@@ -1,9 +1,9 @@
 # Critical Illness Insurance: Predictive Risk & Underwriting Analysis
 
 ## Project Overview
-This project performs a statistical analysis of a health insurance portfolio to determine if higher premiums for policyholders with chronic conditions (diabetes, hypertension, etc.) are justified by actual claim frequency and severity[cite: 77, 82]. 
+This project performs a statistical analysis of a health insurance portfolio to determine if higher premiums for policyholders with chronic conditions (diabetes, hypertension, etc.) are justified by actual claim frequency and severity. 
 
-Using anonymized data from ~5,000 policyholders, the analysis evaluates whether advances in medicine have narrowed the risk gap traditionally assumed in actuarial pricing models[cite: 80, 82].
+Using anonymized data from ~5,000 policyholders, the analysis evaluates whether advances in medicine have narrowed the risk gap traditionally assumed in actuarial pricing models.
 
 ## Key Technical Features
 * **Language:** R
