@@ -2,7 +2,7 @@
 ## Setup
 
 library(readr)
-critical_illness <- read_csv("C:/Users/rprav/Downloads/critical_illness.csv")
+critical_illness <- read_csv("critical_illness.csv")
 install.packages("tidyverse")  
 library(tidyverse)
 ci <- critical_illness
@@ -245,6 +245,7 @@ z_beta  <- qnorm(0.95)   # 1 - beta = 0.95 (power 95%)
 
 n_req <- 2 * (z_alpha + z_beta)^2 * sd_pooled^2 / delta^2
 n_req
+
 
 
 
